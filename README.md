@@ -20,6 +20,6 @@ I'm a **freelance web developer** and **crypto dev**, passionate about building 
 - **AI & Automation**: Anthropic, ChatGPT, Python scripting
 
 ### 🌍 Let's Connect!
-- 🐦 Twitter: [@0xVisionary](#)
+- 🐦 Twitter: [@0x0xVisionary](#)
 - 🔗 Website: [Coming soon...]
 - 📫 Reach me via GitHub Issues or DMs!
